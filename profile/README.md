@@ -1,3 +1,5 @@
+# [![Fileradar](logo.png)](https://fileradar.nl/)
+
 ## De ideale partner in verkeerskundige data & analytics sinds 2010
 
 Fileradar werd in 2010 opgericht door Frank Zuurbier en Chris van Hinsbergen. Sindsdien werken we aan ons eigen softwareplatform om allerlei verkeerskundige uitdagingen aan te gaan.
